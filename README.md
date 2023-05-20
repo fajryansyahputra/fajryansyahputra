@@ -3,33 +3,6 @@
   <img src="" />
 </p> -->
 
-<p align="center">
-  <a href="https://space.bilibili.com/12767066">
-        <img alt="bilibili"
-            src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F12767066&query=count&color=282c34&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&labelColor=FE7398&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8%2FS9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I%2Fw+lgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F%2FSS%2F9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)" />
-    </a>
-    <a href="https://github.com/fajryansyahputra">
-        <img alt="github"
-            src="https://img.shields.io/github/stars/fajryansyahputra?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
-    </a>
-    <a href="https://www.zhihu.com/people/mkosto">
-        <img
-            src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmkosto&longCache=true" />
-    </a>
-    <a href="https://juejin.cn/user/2348212565837165">
-        <img alt="juejin"
-            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
-    </a>
-     <a href="https://www.youtube.com/channel/">
-       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpCzS_uKS1zzOAUjuuBNXDQ">
-    </a>
-</p>
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
-
 <h1 align="center">Hi 👋, I'm Fajryan</h1>
 <h3 align="center">A passionate ngestuck developer from Isekai</h3>
 
@@ -63,7 +36,7 @@
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/fajryansyahputra/spotify-github-profile) -->
 
 
 ### :dart: Weekly Fuck The Code
@@ -78,114 +51,8 @@ No activity tracked
 
 ### :sparkles: My Followers
 
-![Metrics](https://metrics.lecoq.io/fajryansyahputra?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/fajryansyahputra)
 
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt=""/>
-      </a>
-      <br />
-      <a href="https://github.com/"></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoochanlon">123456</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
-      </a>
-      <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
-      </a>
-      <br />
-      <a href="https://github.com/sbilly">sbilly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
-      </a>
-      <br />
-      <a href="https://github.com/victoryang00">Yiwei Yang</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
-      </a>
-      <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
-      </a>
-      <br />
-      <a href="https://github.com/pinhe91">Han Mei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
 
 Github：fajryan syahputra
 
